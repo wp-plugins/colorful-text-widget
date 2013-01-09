@@ -67,7 +67,7 @@ Author URI: http://iniyan.in
             echo '<input class="widefat" id="'.$this->get_field_id('widgetstyle').'" name="'.$this->get_field_name('widgetstyle').'" type="text" 
 value="'.$widgetstyle.'" /></p>';
 				echo 'You can use these default styles:<p style="color:#d43;">ctw-blue, ctw-gray, ctw-green, ctw-purple, ctw-red, ctw-yellow</p> OR define some class and style it on your own.<br/><br/>';
- 
+				echo 'Check the <a href="http://iniyan.in/plugins/colorful-text-widget/#demo">colorful text widget</a> demo here'; 
         }
     }
  

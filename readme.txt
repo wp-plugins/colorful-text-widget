@@ -16,6 +16,8 @@ Colorful Text Widgets is a normal text widget that makes your text widget a colo
 
 More style options will be added on further release. 
 
+Check the <a href="http://iniyan.in/plugins/colorful-text-widget/#demo">colorful text widget</a> demo here
+
 == Installation ==
 
 Upload to plugins directory and activate it on appearance-plugins. Colorful text widget will appear in the appearances > widgets section.
