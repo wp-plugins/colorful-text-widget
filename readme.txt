@@ -1,6 +1,6 @@
 === Colorful text widget ===
-Contributors: iniyan
-Donate link: http://iniyan.in/donate
+Contributors : logeshmba, iniyan
+Donate link  : http://iniyan.in/donate
 Tags: text, text widget, custom class, custom text, colorful
 Requires at least: 2.8
 Tested up to: 3.5
