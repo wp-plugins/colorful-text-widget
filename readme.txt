@@ -3,7 +3,7 @@ Contributors: iniyan, logeshmba
 Donate link: http://iniyan.in/donate
 Tags: text, text widget, custom text, colorful,customized text widget, color picker
 Requires at least: 2.8
-Tested up to: 3.5
+Tested up to: 4.1
 Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -37,6 +37,9 @@ That's upto you :)
 * Added color picker to change Background, Ttile and Text color
 
 
+= 2.0.2=
+tested upto 4.1. Small fix.
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -45,6 +48,8 @@ Fresh release.
 = 2.0 =
 Added color picker to change Background, Ttile and Text color
 
+= 2.0.2=
+tested upto 4.1. Small fix.
 == Screenshots ==
 
 It's not a rocket science. 
