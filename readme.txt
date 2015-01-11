@@ -3,7 +3,7 @@ Contributors: iniyan, logeshmba
 Donate link: http://iniyan.in/donate
 Tags: text, text widget, custom class, custom text, colorful
 Requires at least: 2.8
-Tested up to: 3.5
+Tested up to: 4.1
 Stable tag: 2.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
